@@ -1,0 +1,1 @@
+(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[348],{864:()=>{const e=document.querySelector("footer .year"),o=(new Date).getFullYear();e.textContent=o}}]);
