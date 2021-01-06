@@ -3,3 +3,4 @@ index.template.html
 package-lock.json
 webpack.config.js
 src
+package.json
